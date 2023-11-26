@@ -46,7 +46,7 @@ GameMenual 1p, GameMenual 2p는 각 게임모드에 대한 설명이 적혀있�
 BrickBreaking Menu에서는 Game Start버튼과 Game Menual을 볼 수 있다.
 
 ###### BrickBreaking in game
-![brick](https://github.com/wjdwocks/mini-games/assets/144427497/403c3255-5995-4368-b712-f017ed688bb8)
+![brick](https://github.com/wjdwocks/mini-games/assets/144427497/403c3255-5995-4368-b712-f017ed688bb8) <br/>
 BrickBreaking 게임은 마우스를 통해서 바닥의 패달을 움직일 수 있고, 공이 바닥에 닿으면 게임 오버되는 방식이다. <br/>
 게임오버되면 3초 후 메뉴로 돌아가지게 된다.
 ---
