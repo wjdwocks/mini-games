@@ -16,6 +16,7 @@
 <br/>
 - 옵션메뉴에서는 White Mode를 만들어서 선택 시
 - 배경 : 검정, 글씨 : 흰색 -> 배경 : 흰색, 글씨 : 검정으로 변경할 수 있다.
+![pygame window 2023-11-26 오후 10_13_38](https://github.com/wjdwocks/mini-games/assets/144427497/661bc39a-71d2-4e36-8d4e-b7d6b12821f4)
 
 --- 
 ### Credit Menu
