@@ -4,7 +4,7 @@
   
 ---
 ## Main Menu
-->![_1 Main](https://github.com/wjdwocks/mini-games/assets/144427497/90f9a4f7-18f1-4722-b71b-888ee314919b)<br/>
+![_1 Main](https://github.com/wjdwocks/mini-games/assets/144427497/90f9a4f7-18f1-4722-b71b-888ee314919b)<br/>
 - W, S, &uarr;, &darr; 을 통해 커서를 원하는 위치로 옮길 수 있다. (모든 화면 공통)
 - BackSpace, ESC 키를 통해 뒤로가기를 수행할 수 있다. (모든 화면 공통)
 - Enter, Spacebar 키를 통해 커서가 위치한 메뉴를 선택할 수 있다. (모든 화면 공통)
@@ -13,13 +13,13 @@
 --- 
 ### Option Menu
 ->옵션메뉴 사진<br/>
-옵션메뉴에서는 White Mode를 만들어서 선택 시<br/>
-배경 : 검정, 글씨 : 흰색 -> 배경 : 흰색, 글씨 : 검정으로 변경할 수 있다. <br/>
+- 옵션메뉴에서는 White Mode를 만들어서 선택 시
+- 배경 : 검정, 글씨 : 흰색 -> 배경 : 흰색, 글씨 : 검정으로 변경할 수 있다.
 
 --- 
 ### Credit Menu
 -> Credit 메뉴 사진<br/>
-Credit메뉴에서는 제작자와 여러 이미지나 폰트의 저작권을 적어두었습니다.<br/>
+- Credit메뉴에서는 제작자와 여러 이미지나 폰트의 저작권을 적어두었습니다.
 
 ---
 ### Games Menu
