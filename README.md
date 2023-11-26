@@ -1,26 +1,31 @@
 # Mini Games
 - 어렸을 때 하던 추억게임들을 파이게임을 통해 만들어 보았습니다.
 - 크게 메인메뉴 -> 게임메뉴 -> 각 게임들 -> 실행의 형태로 화면의 전환이 일어납니다.
+  
 ---
 ## Main Menu
 ->![_1 Main](https://github.com/wjdwocks/mini-games/assets/144427497/90f9a4f7-18f1-4722-b71b-888ee314919b)<br/>
-W, S, &uarr;, &darr; 을 통해 커서를 원하는 위치로 옮길 수 있다. (모든 화면 공통)<br/>
-BackSpace, ESC 키를 통해 뒤로가기를 수행할 수 있다. (모든 화면 공통)<br/>
-Enter, Spacebar 키를 통해 커서가 위치한 메뉴를 선택할 수 있다. (모든 화면 공통)<br/>
-메인 메뉴에서는 게임메뉴, 옵션, credit, Exit 버튼이 있다.<br/>
+- W, S, &uarr;, &darr; 을 통해 커서를 원하는 위치로 옮길 수 있다. (모든 화면 공통)
+- BackSpace, ESC 키를 통해 뒤로가기를 수행할 수 있다. (모든 화면 공통)
+- Enter, Spacebar 키를 통해 커서가 위치한 메뉴를 선택할 수 있다. (모든 화면 공통)
+- 메인 메뉴에서는 게임메뉴, 옵션, credit, Exit 버튼이 있다.
+
 --- 
 ### Option Menu
 ->옵션메뉴 사진<br/>
 옵션메뉴에서는 White Mode를 만들어서 선택 시<br/>
 배경 : 검정, 글씨 : 흰색 -> 배경 : 흰색, 글씨 : 검정으로 변경할 수 있다. <br/>
+
 --- 
 ### Credit Menu
 -> Credit 메뉴 사진<br/>
 Credit메뉴에서는 제작자와 여러 이미지나 폰트의 저작권을 적어두었습니다.<br/>
+
 ---
 ### Games Menu
 ![_2 GameMenu](https://github.com/wjdwocks/mini-games/assets/144427497/0afb1b0e-d575-453b-bf5b-6d68277c2fd2)<br/>
 Game Menu에서는 여러 게임들을 선택할 수 있게 하여 해당 게임들의 세부사항을 선택할 수 있는 메뉴로 옮겨준다.<br/>
+
 ---
 ##### Space Game
 ![_3space_menu](https://github.com/wjdwocks/mini-games/assets/144427497/021d0497-8dd5-40eb-baf5-e1e6aecad969)<br/>
