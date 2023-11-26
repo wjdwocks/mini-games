@@ -29,17 +29,18 @@ Space Game 메뉴에서는 1Person Mode, 2Person Mode, GameMenual 1p, GameMenual
 GameMenual 1p, GameMenual 2p는 각 게임모드에 대한 설명이 적혀있다.<br/>
 
 ###### 1p Mode
-![1p](https://github.com/wjdwocks/mini-games/assets/144427497/c9260bba-6563-463b-b240-191627523de9)
+![1p](https://github.com/wjdwocks/mini-games/assets/144427497/c9260bba-6563-463b-b240-191627523de9) <br/>
 1p모드에서 적은 랜덤으로 움직이고, 랜덤한 주기로 총알을 발사한다. <br/>
 플레이어는 A, &larr;, D, &rarr;를 통해서 좌우로 움직이며 SpaceBar를 통해 총알을 발사할 수 있다.<br/>
 플레이어와 상대 모두 체력은 10으로 동일하고 0이되면 승리하거나 패배한다.<br/>
 패배하거나 승리하면 문구가 화면에 출력되고, 3초 후 메뉴화면으로 돌아간다.<br/>
 
 ###### 2p Mode
-![2p](https://github.com/wjdwocks/mini-games/assets/144427497/31af62c7-d1f1-4b76-b8ff-e84fd41218a3)
+![2p](https://github.com/wjdwocks/mini-games/assets/144427497/31af62c7-d1f1-4b76-b8ff-e84fd41218a3) <br/>
 2p 모드에서는 1p가 &larr;, &rarr;를 통해 움직이고, 숫자패드의 0을 눌러 총알을 발사할 수 있다.<br/>
 2p는 A, D, SpaceBar를 통해 조작할 수 있다.<br/>
 한쪽이 죽어서 게임이 끝나게 되면, 이긴 플레이어가 화면에 출력되고, 3초 후 메뉴화면으로 돌아간다.<br/>
+
 ---
 ##### BrickBreaking Game(블록깨기)
 ![brick Menu](https://github.com/wjdwocks/mini-games/assets/144427497/<br/>
@@ -49,6 +50,7 @@ BrickBreaking Menu에서는 Game Start버튼과 Game Menual을 볼 수 있다.
 ![brick](https://github.com/wjdwocks/mini-games/assets/144427497/403c3255-5995-4368-b712-f017ed688bb8) <br/>
 BrickBreaking 게임은 마우스를 통해서 바닥의 패달을 움직일 수 있고, 공이 바닥에 닿으면 게임 오버되는 방식이다. <br/>
 게임오버되면 3초 후 메뉴로 돌아가지게 된다.
+
 ---
 ##### Escape Poo Game(똥피하기)
 ![po0Menu](https://github.com/wjdwocks/mini-games/assets/144427497/ccc3c9d5-f549-4322-822f-4d725c17c200)<br/>
@@ -65,6 +67,7 @@ Escape Poo Game에서는 &larr;, &rarr;, A, D키를 통해 좌우로 캐릭터�
 게임 오버가 되면, 자신의 기록(버틴 시간)이 화면에 출력되고, 3초 후 메뉴화면으로 돌아간다.<br/>
 ![gameover](https://github.com/wjdwocks/mini-games/assets/144427497/9c064bb8-d7ed-4b79-a0d8-57fa4e1677a8)
 (+)&nbsp;&nbsp;캐릭터의 피격범위가 보이는 것보다 커서 좌우로 30px씩 줄였다.
+
 ---
 ##### Mouse Maze Game(마우스 피하기)
 ![mouseMenu](https://github.com/wjdwocks/mini-games/assets/144427497/d594c09a-2c6f-4101-bfe2-000683538545)<br/>
