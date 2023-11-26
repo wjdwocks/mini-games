@@ -18,8 +18,8 @@
 
 --- 
 ### Credit Menu
--> Credit 메뉴 사진<br/>
-- Credit메뉴에서는 제작자와 여러 이미지나 폰트의 저작권을 적어두었습니다.
+![credits](https://github.com/wjdwocks/mini-games/assets/144427497/afe3fcd1-0427-4065-a13a-d78829332719)<br/>
+- Credit메뉴에서는 제작자(나)와 여러 이미지나 폰트의 저작권을 적어두었습니다.
 
 ---
 ### Games Menu
