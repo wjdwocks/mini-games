@@ -20,7 +20,7 @@
 
 --- 
 ### Credit Menu
-![credits](https://github.com/wjdwocks/mini-games/assets/144427497/afe3fcd1-0427-4065-a13a-d78829332719)<br/>
+![credits (2)](https://github.com/wjdwocks/mini-games/assets/144427497/df8b28ca-453a-46b5-93cc-2c2d35398a09)<br/>
 - Credit메뉴에서는 제작자(나)와 여러 이미지나 폰트의 저작권을 적어두었습니다.
 
 ---
@@ -73,8 +73,9 @@ Escape Poo Game에서는 &larr;, &rarr;, A, D키를 통해 좌우로 캐릭터�
 3번 똥에 맞게되면 GAME OVER가 된다.<br/>
 게임 오버가 되면, 자신의 기록(버틴 시간)이 화면에 출력되고, 3초 후 메뉴화면으로 돌아간다.<br/>
 ![gameover](https://github.com/wjdwocks/mini-games/assets/144427497/9c064bb8-d7ed-4b79-a0d8-57fa4e1677a8)
-(+)&nbsp;&nbsp;캐릭터의 피격범위가 보이는 것보다 커서 좌우로 30px씩 줄였다.
-
+(+) &nbsp;&nbsp;캐릭터의 피격범위가 보이는 것보다 커서 좌우로 30px씩 줄였다.<br/>
+(+) &nbsp;&nbsp; 하늘에서 휴지가 떨어지게 해서 휴지와 닿는다면 캐릭터의 체력이 하나 회복되도록함.<br/>
+![후지](https://github.com/wjdwocks/mini-games/assets/144427497/6c6d100a-f0c0-4f57-ac6c-b742f74e5569)
 ---
 ##### Mouse Maze Game(마우스 피하기)
 ![mouseMenu](https://github.com/wjdwocks/mini-games/assets/144427497/d594c09a-2c6f-4101-bfe2-000683538545)<br/>
