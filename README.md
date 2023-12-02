@@ -64,7 +64,7 @@ BrickBreaking 게임은 마우스를 통해서 바닥의 패달을 움직일 수
 Escape Poo Game Menu에서는 Game Start버튼과 Menual버튼이 있어서 게임 설명을 보거나, 게임을 시작할 수 있다.
 
 ###### Escape Poo in game
-![c_1](https://github.com/wjdwocks/mini-games/assets/144427497/02a4f90c-9028-4374-a001-7f91116e410a)
+![c_1](https://github.com/wjdwocks/mini-games/assets/144427497/02a4f90c-9028-4374-a001-7f91116e410a)<br/>
 Escape Poo Game에서는 &larr;, &rarr;, A, D키를 통해 좌우로 캐릭터를 움직일 수 있다.<br/>
 똥들은 화면의 가장 위 랜덤 위치에서 랜덤한 간격으로 생성되며, 일정한 속도로 바닥으로 떨어진다.<br/>
 똥이 바닥에 닿으면 사라지게 되고, 캐릭터는 똥에 맞을 때마다 점점 똥이 묻게된다.<br/>
