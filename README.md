@@ -68,13 +68,16 @@ Escape Poo Game Menu에서는 Game Start버튼과 Menual버튼이 있어서 게�
 Escape Poo Game에서는 &larr;, &rarr;, A, D키를 통해 좌우로 캐릭터를 움직일 수 있다.<br/>
 똥들은 화면의 가장 위 랜덤 위치에서 랜덤한 간격으로 생성되며, 일정한 속도로 바닥으로 떨어진다.<br/>
 똥이 바닥에 닿으면 사라지게 되고, 캐릭터는 똥에 맞을 때마다 점점 똥이 묻게된다.<br/>
+
 ![c_2](https://github.com/wjdwocks/mini-games/assets/144427497/92143c28-ee29-451d-ae2f-96d339d99e73)
 ![c_3](https://github.com/wjdwocks/mini-games/assets/144427497/65b71bc8-e75f-4ac0-a3a1-b9151afa7e8f)
 3번 똥에 맞게되면 GAME OVER가 된다.<br/>
 게임 오버가 되면, 자신의 기록(버틴 시간)이 화면에 출력되고, 3초 후 메뉴화면으로 돌아간다.<br/>
+
 ![gameover](https://github.com/wjdwocks/mini-games/assets/144427497/9c064bb8-d7ed-4b79-a0d8-57fa4e1677a8)
 (+) &nbsp;&nbsp;캐릭터의 피격범위가 보이는 것보다 커서 좌우로 30px씩 줄였다.<br/>
 (+) &nbsp;&nbsp; 하늘에서 휴지가 떨어지게 해서 휴지와 닿는다면 캐릭터의 체력이 하나 회복되도록함.<br/>
+
 ![후지](https://github.com/wjdwocks/mini-games/assets/144427497/6c6d100a-f0c0-4f57-ac6c-b742f74e5569)
 ---
 ##### Mouse Maze Game(마우스 피하기)
