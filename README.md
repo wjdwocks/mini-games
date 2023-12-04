@@ -104,3 +104,9 @@ Mouse Maze Game Menu에서는 Game Start버튼과 Menual 버튼이 있어서 게
 만약 시작 지점 -> 종료 지점까지 이동하게 되면, YOU WIN문구가 뜨고, 재미있는 일이 일어나게 됩니다.
 난이도가 아주 높기에 무슨일이 일어날지는 직접 확인해 보세요!
 
+---
+
+## REFERENCE
+
+1. Pygame에서 메뉴를 만드는 방법에 대해서는 YouTube에 CDcodes의 'Pygame Menu System Tutorial Part 1: Game Loops and Structure'와 'Pygame Menu System Tutorial Part 2: Building the Menu and States' 영상을 참고했습니다.
+2. Pygame 라이브러리를 공부하고, SpaceGame1p, BrickBreakGame은 YouTube에 소놀코딩의 '파이썬 게임 만들기 강의' 영상을 참고하였습니다.
