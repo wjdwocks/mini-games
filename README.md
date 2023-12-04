@@ -1,7 +1,16 @@
 # Mini Games
 - 어렸을 때 하던 추억게임들을 파이게임을 통해 만들어 보았습니다.
 - 크게 메인메뉴 -> 게임메뉴 -> 각 게임들 -> 실행의 형태로 화면의 전환이 일어납니다.
-  
+
+---
+
+## 실행 방법
+  1. mini-games를 zip 파일로 다운로드 받는다.
+  2. zip파일을 압축 해제한다.
+  3. vsCode에서 __텀프__ 파일을 폴더로 추가한다.
+  4. python과 pygame은 설치가 되어있어야 한다.
+  5. 텀프/Main/main.py 파일을 실행하면 게임이 실행된다.
+
 ---
 ## Main Menu
 ![_1 Main](https://github.com/wjdwocks/mini-games/assets/144427497/90f9a4f7-18f1-4722-b71b-888ee314919b)<br/>
